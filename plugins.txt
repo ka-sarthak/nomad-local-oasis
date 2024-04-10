@@ -1,2 +1,4 @@
-nomad-measurements
-nomad-material-processing
+git+https://github.com/FAIRmat-NFDI/nomad-material-processing.git@f6cfcb3c19969e987905f94c4292d8d8d2697ddd # main branch
+git+https://github.com/FAIRmat-NFDI/nomad-measurements.git@05bdf2cb7e53aa84ae49d0d9bb09d8d31624c2b7 # main branch
+git+https://github.com/FAIRmat-NFDI/nomad-analysis.git@6432f6c19d3d07a7597eb9c63a638d4dfeda3ddf # develop branch
+git+https://github.com/FAIRmat-NFDI/AreaA-data_modeling_and_schemas.git@0c1f53f62af05881f3ba90f595b4605fe2327825#subdirectory=transmission/transmission_plugin/uv_vis_nir_transmission_plugin
